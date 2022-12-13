@@ -1,7 +1,6 @@
 import streamlit
-streamlit.title("This is my first hello world in github")
-streamlit.title(" i am going through github and streamlit , many more things i am learening now")
-streamlit.header('Snowflake')
-streamlit.text("a. warehouse")
-streamlit.text("b.database")
-streamlit.text("c.schema")
+streamlit.title('My parents new Healthy dinner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
